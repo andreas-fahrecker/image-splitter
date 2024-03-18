@@ -47,3 +47,7 @@ The script will create two new images in the "left" and "right" directories with
 
 ## License
 This project is licensed under the terms of the MIT license.
+
+## Source Code
+
+The source code for this project is available on [Gitea](https://gitea.fahrecker.com/andreas-personal/image-splitter) and mirrored on [GitHub](https://github.com/andreas-fahrecker/image-splitter).
